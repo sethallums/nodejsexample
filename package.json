@@ -1,0 +1,14 @@
+{
+  "name": "sethnodejsexample",
+  "version": "1.0.0",
+  "description": "Seth's Week 3 NodeJS example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seth"
+  ],
+  "author": "Seth Allums",
+  "license": "ISC"
+}
